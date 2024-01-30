@@ -2,33 +2,47 @@
 
 ## Introduction to BERTNN
 
-Welcome to the world of BERTNN, a tool that estimates affective meanings in language! Designed for researchers, educators, and enthusiasts, BERTNN harnesses the power of advanced natural language processing to explore the emotional dimensions of words and phrases. Whether you're delving into sociology, psychology, linguistics, or just curious about language, BERTNN offers a user-friendly gateway to understanding affective meanings.
+Welcome to the world of BERTNN, a tool developed by Moeen Mostafavi, Michael D. Porter, and Dawn T. Robinson for estimating affective meanings in language. BERTNN harnesses advanced natural language processing techniques to explore the emotional dimensions of words and phrases, making it a valuable resource for researchers, educators, and anyone interested in the intersection of language and emotion.
+
+### Abstract
+
+This Jupyter-notebook file briefly reviews how the BERTNN model can estimate affective meanings. This is an ongoing project, and many parts may be changed in the final draft. This draft is for personal use. Please get in touch with the authors if you need to share it with your collaborators.
 
 ## No Programming Experience? No Problem!
 
-Don't worry if you're not familiar with programming! We've prepared an easy-to-use platform where you can experiment with BERTNN without writing a single line of code. 
+You don't need any programming background to use BERTNN. We've set up a user-friendly platform on Google Colab, allowing you to experiment with BERTNN without any coding.
 
-- **Google Colab**: A free, cloud-based platform that allows you to run BERTNN directly in your browser. [Access BERTNN on Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1ej1wldgDgjOOu2OBf3xXasq51L6V-gft?usp=sharing#scrollTo=o4b02VADlYT0))
-- **Alternative Cloud Platform**: For those who prefer a different environment, we also provide access on another cloud platform. [Access BERTNN on Alternative Cloud Platform](#)
+- **Google Colab**: [Access BERTNN on Google Colab](https://colab.research.google.com/drive/1ej1wldgDgjOOu2OBf3xXasq51L6V-gft?usp=sharing#scrollTo=o4b02VADlYT0)
+- **Note**: We recommend logging in with your personal Google account, as university or work accounts may not support all features.
 
-Both platforms come with pre-installed libraries and environments, making it hassle-free for you to start exploring affective meanings right away.
+Both platforms come with pre-installed libraries and environments, making it easy for you to start exploring affective meanings immediately.
 
 ## Getting Started
 
-Once you're on Google Colab or the alternative cloud platform, you'll find a Jupyter notebook pre-loaded with BERTNN. This notebook is your interactive guide, walking you through the process step-by-step.
-
-1. **Run the Notebook**: Simply click "Runtime" on the top menu and select "Run all." The notebook will execute all the commands automatically.
-2. **Explore Functions**: Use functions like `EPA_sents()` and `get_output_new()` to estimate the affective meanings of words and phrases in different contexts.
-3. **Examples and Guidance**: The notebook includes examples and detailed explanations to help you understand how to use these functions.
+1. **Run the Notebook**: Simply click "Runtime" on the top menu and select "Run all."
+2. **Explore Functions**: Use functions like `EPA_sents()` and `get_output_new()` for affective meanings estimation.
+3. **Examples and Guidance**: The notebook includes examples and detailed explanations.
 
 ## Dive Deeper
 
-If you're interested in the technical details or want to learn more about the underlying technology, we've got you covered. Check out our [Technical README](#) for an in-depth look at BERTNN's mechanics, data processing, and more.
+For technical details, check out our [Technical README](#).
+
+## Authors
+
+- Moeen Mostafavi
+- Michael D. Porter
+- Dawn T. Robinson
+
+## Citation
+
+Please cite our work if you use BERTNN in your research:
+
+Mostafavi, M., Porter, M. D., & Robinson, D. T. (2024). Contextual Embeddings in Sociological Research: Expanding the Analysis of Sentiment and Social Dynamics. *[To be published in]Sociological Methodology Journal*.
 
 ## Your Journey Begins Here
 
-Whether you're exploring affective meanings for academic research, education, or personal interest, BERTNN offers a unique and accessible way to dive into the emotional dimensions of language. Start your journey today and discover the fascinating world of affective meanings with BERTNN!
+Discover the fascinating world of affective meanings with BERTNN!
 
 ---
 
-**Note**: This project is an ongoing endeavor, and the methods or data might evolve. Please reach out to the authors for any collaborations or if you wish to share it further.
+**Note**: This project is an ongoing endeavor, and methods or data might evolve. Please contact the authors for collaborations or further sharing.
