@@ -25,7 +25,7 @@ Both platforms come with pre-installed libraries and environments, making it eas
 
 ## Dive Deeper
 
-For technical details, check out our [Technical README](#).
+For technical details, check out our [Technical_readme](#).
 
 ## Authors
 
