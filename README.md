@@ -15,7 +15,7 @@ You don't need any programming background to use BERTNN. We've set up a user-fri
 - **Google Colab**: [Access BERTNN on Google Colab](https://colab.research.google.com/drive/1ej1wldgDgjOOu2OBf3xXasq51L6V-gft?usp=sharing#scrollTo=o4b02VADlYT0)
 - **Note**: We recommend logging in with your personal Google account, as university or work accounts may not support all features.
 
-- ** Google Cloud** [Access BERTNN on Google cloud] (http://34.125.8.52:8888/notebooks/MABMO_API.ipynb)
+- **Google Cloud**: [Access BERTNN on Google Cloud](http://34.125.8.52:8888/notebooks/MABMO_API.ipynb)
 - **Note**: Use this token: d41135beb05ff3a5d79e676cfd2ba897350101722fcdd05f
 
 
