@@ -16,7 +16,7 @@ You don't need any programming background to use BERTNN. We've set up a user-fri
 - **Note**: We recommend logging in with your personal Google account, as university or work accounts may not support all features.
 
 - **Google Cloud**: [Access BERTNN on Google Cloud](http://34.125.8.52:8888/notebooks/MABMO_API.ipynb)
-- **Note**: Use this token: ffc404e231222d69c6cec13d3b159cdea6f29154dd9845ed
+- **Note**: Use this token: 675c374fda98208e45b440418f25d5e99b3aae021f91193d
 
 
 Both platforms come with pre-installed libraries and environments, making it easy for you to start exploring affective meanings immediately.
