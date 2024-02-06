@@ -15,9 +15,11 @@ You don't need any programming background to use BERTNN. We've set up a user-fri
 - **Google Colab**: [Access BERTNN on Google Colab](https://colab.research.google.com/drive/1ej1wldgDgjOOu2OBf3xXasq51L6V-gft?usp=sharing#scrollTo=o4b02VADlYT0)
 - **Note**: We recommend logging in with your personal Google account, as university or work accounts may not support all features.
 
-- **Google Cloud**: [Access BERTNN on Google Cloud](http://34.125.8.52:8888/notebooks/MABMO_API.ipynb)
+- **Google Cloud 1**: [Access BERTNN on Google Cloud 1](http://34.125.8.52:8888/notebooks/MABMO_API.ipynb)
 - **Note**: Use this token: 675c374fda98208e45b440418f25d5e99b3aae021f91193d
 
+- **Google Cloud 2**: [Access BERTNN on Google Cloud 2](http://35.247.2.163:8888/notebooks/MABMO_API.ipynb)
+- **Note**: Use this token: fffafa6a40769e29c7623164727d5d70b8527a187ea40e6e
 
 Both platforms come with pre-installed libraries and environments, making it easy for you to start exploring affective meanings immediately.
 
