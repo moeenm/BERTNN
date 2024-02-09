@@ -35,7 +35,7 @@ For technical details, check out our [Technical](Technical_readme.md).
 
 ## Authors
 
-- Moeen Mostafavi
+- Moeen Mostafavi [moeen [at] virginia.edu]
 - Michael D. Porter
 - Dawn T. Robinson
 
