@@ -12,6 +12,8 @@ This Jupyter-notebook file briefly reviews how the BERTNN model can estimate aff
 
 You don't need any programming background to use BERTNN. We've set up a user-friendly platform on Google Colab, allowing you to experiment with BERTNN without any coding.
 
+You can watch this [introductory video](https://youtu.be/E2DFkGr3FXg) about how to run the tool on Google Colab/Cloud.
+
 - **Google Colab**: [Access BERTNN on Google Colab](https://colab.research.google.com/drive/1ej1wldgDgjOOu2OBf3xXasq51L6V-gft?usp=sharing#scrollTo=o4b02VADlYT0)
 - **Note**: We recommend logging in with your personal Google account, as university or work accounts may not support all features.
 
