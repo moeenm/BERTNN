@@ -42,7 +42,7 @@ Contributions to BERTNN are welcome. Please adhere to the project's contribution
 
 If you use BERTNN in your research, please cite:
 
-> Mostafavi, M., Porter, M. D., & Robinson, D. T. (2024). Contextual Embeddings in Sociological Research: Expanding the Analysis of Sentiment and Social Dynamics. *[To be published ib] Sociological Methodology Journal*.
+> Mostafavi, M., Porter, M. D., & Robinson, D. T. (2024). Contextual Embeddings in Sociological Research: Expanding the Analysis of Sentiment and Social Dynamics.  Sociological Methodology Journal*.
 
 ---
 
