@@ -25,6 +25,14 @@ For researchers and practitioners, BERTNN offers several advanced features:
 
 - **Custom Event Analysis**: Ability to analyze custom events crafted in MABMO grammar.
 
+
+## Developer Code Release
+
+We are pleased to announce that the code accompanying the BERTNN paper has been released for end-users. Due to multiple requests from the community, we are also releasing the initial draft of the developer code [here](https://huggingface.co/bertnn/whole/blob/main/BERTNN_developers.ipynb). While this version is an early draft, we plan to gradually clean the code, add more detailed comments, and enhance its usability for developers.
+
+If you need any assistance with the code, feel free to contact us. We hope this release helps others in furthering research and development in sentiment analysis and sociological dynamics using BERT.
+
+
 ## Contributing
 
 Contributions to BERTNN are welcome. Please adhere to the project's contribution guidelines for submitting pull requests or issues.
